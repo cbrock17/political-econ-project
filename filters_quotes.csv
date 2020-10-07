@@ -1,0 +1,450 @@
+id,description,id
+1,"""all defendants""",1
+10,"""white defendants""",10
+11,"""African American defendants""",11
+12,"""Hispanic / Latino defendants""",12
+13,"""Native American or Alaskan defendants""",13
+14,"""Asian or Pacific Islander defendants""",14
+15,"""defendants of color""",15
+16,"""defendants of unknown race / ethnicity""",16
+20,"""male defendants""",20
+21,"""female defendants""",21
+22,"""defendants of unknown sex""",22
+30,"""non-indigent defendants""",30
+31,"""indigent defendants""",31
+32,"""defendants of unknown indigent status""",32
+40,"""defendants under age 18""",40
+41,"""defendants age 18 to 25""",41
+42,"""defendants age 26 to 35""",42
+43,"""defendants age 36 to 45""",43
+44,"""defendants age 46 to 65""",44
+45,"""defendants over age 65""",45
+46,"""defendants of unknown age group""",46
+50,"""defendants who self-represented""",50
+51,"""defendants represented by private attorney""",51
+52,"""defendants represented by public defender""",52
+53,"""defendants represented by a court-appointed private attorney""",53
+54,"""defendants represented by other attorney type""",54
+55,"""defendants represented by an attorney of unknown type""",55
+60,"""defendants with no drug charges""",60
+61,"""defendants with drug paraphernalia related charges""",61
+62,"""defendants with other/unspecified drug offense charges""",62
+63,"""defendants with possession/use of unspecified drug charges""",63
+64,"""defendants with marijuana possession/use charges""",64
+65,"""defendants with other drug possession/use charges""",65
+66,"""defendants with other prescription drug possession/use charges""",66
+67,"""defendants with opioid drug possession/use charges""",67
+80,"""defendants represented by other defense counsel""",80
+81,"""defendants represented by Gideon's Promise defense counsel""",81
+7100,"""defendants charged with a violent offense""",7100
+7101,"""defendants charged with a property offense""",7101
+7102,"""defendants charged with a drug offense""",7102
+7103,"""defendants charged with a DUI offense""",7103
+7104,"""defendants charged with public order offense""",7104
+7105,"""defendants charged with a criminal traffic offense""",7105
+7106,"""defendants charged with other offense""",7106
+7199,"""defendants charged with an offense of unknown""",7199
+7200,"""defendants charged with a nonviolent misdemeanor""",7200
+7201,"""defendants charged with a violent misdemeanor""",7201
+7202,"""defendants charged with a nonviolent felony""",7202
+7203,"""defendants charged with a violent felony""",7203
+7299,"""defendants charged with an offense of unknown severity""",7299
+8100,"""defendants charged with a violent offense""",8100
+8101,"""defendants charged with a property offense""",8101
+8102,"""defendants charged with a drug offense""",8102
+8103,"""defendants charged with a DUI offense""",8103
+8104,"""defendants charged with a public order offense""",8104
+8105,"""defendants charged with a criminal traffic offense""",8105
+8106,"""defendants charged with other offense""",8106
+8199,"""defendants charged with an offense of unknown""",8199
+8200,"""defendants charged with a nonviolent misdemeanor""",8200
+8201,"""defendants charged with a violent misdemeanor""",8201
+8202,"""defendants charged with a nonviolent felony""",8202
+8203,"""defendants charged with a violent felony""",8203
+8299,"""defendants charged with an offense of unknown severity""",8299
+9100,"""defendants charged with a violent offense""",9100
+9101,"""defendants charged with a property offense""",9101
+9102,"""defendants charged with a drug offense""",9102
+9103,"""defendants charged with DUI offense""",9103
+9104,"""defendants charged with a public order offense""",9104
+9105,"""defendants charged with a criminal traffic offense""",9105
+9106,"""defendants charged with other offense""",9106
+9199,"""defendants charged with an offense of unknown""",9199
+9200,"""defendants charged with a nonviolent misdemeanor""",9200
+9201,"""defendants charged with a violent misdemeanor""",9201
+9202,"""defendants charged with a nonviolent felony""",9202
+9203,"""defendants charged with a violent felony""",9203
+9299,"""defendants charged with an offense of unknown severity""",9299
+71000,"""defendants charged with an ordinance / infraction""",71000
+71001,"""defendants charged with an unclassified misdemeanor""",71001
+71002,"""defendants charged with a class 2 misdemeanor""",71002
+71003,"""defendants charged with a class 1 misdemeanor""",71003
+71004,"""defendants charged with an unclassified felony""",71004
+71005,"""defendants charged with a class 3 felony""",71005
+71006,"""defendants charged with a class 2 felony""",71006
+71007,"""defendants charged with a class 1 felony""",71007
+71008,"""defendants charged with a life felony""",71008
+71009,"""defendants charged with a capital felony""",71009
+71099,"""defendants charged with an offense of unknown severity""",71099
+71100,"""defendants charged with an  infraction""",71100
+71101,"""defendants charged with an unclassified misdemeanor""",71101
+71102,"""defendants charged with a class 3 misdemeanor""",71102
+71103,"""defendants charged with a traffic misdemeanor""",71103
+71104,"""defendants charged with a class 2 misdemeanor""",71104
+71105,"""defendants charged with a class 1 misdemeanor""",71105
+71106,"""defendants charged with a class A1 misdemeanor""",71106
+71107,"""defendants charged with an unclassified felony""",71107
+71108,"""defendants charged with a class I felony""",71108
+71109,"""defendants charged with a class H elony""",71109
+71110,"""defendants charged with a class G felony""",71110
+71111,"""defendants charged with a class F felony""",71111
+71112,"""defendants charged with a class E felony""",71112
+71113,"""defendants charged with a class D felony""",71113
+71114,"""defendants charged with a class C felony""",71114
+71115,"""defendants charged with a class B2 felony""",71115
+71116,"""defendants charged with a class B1 felony""",71116
+71117,"""defendants charged with a class A felony""",71117
+71199,"""defendants charged with an offense of unknown severity""",71199
+71200,"""defendants charged with an ordinance / infraction""",71200
+71201,"""defendants charged with an unclassified misdemeanor""",71201
+71202,"""defendants charged with a summary offense""",71202
+71203,"""defendants charged with a class 3 misdemeanor""",71203
+71204,"""defendants charged with a class 2 misdemeanor""",71204
+71205,"""defendants charged with a class 1 misdemeanor""",71205
+71206,"""defendants charged with an unclassified felony""",71206
+71207,"""defendants charged with a class 3 felony""",71207
+71208,"""defendants charged with a class 2 felony""",71208
+71209,"""defendants charged with a class 1 felony""",71209
+71210,"""defendants charged with homicide""",71210
+71299,"""defendants charged with an offense of unknown severity""",71299
+71300,"""defendants charged with an infraction""",71300
+71301,"""defendants charged with a class C misdemeanor""",71301
+71302,"""defendants charged with a class B misdemeanor""",71302
+71303,"""defendants charged with a class A misdemeanor""",71303
+71304,"""defendants charged with a class 3 felony""",71304
+71305,"""defendants charged with a class 2 felony""",71305
+71306,"""defendants charged with a class 1 felony""",71306
+71307,"""defendants charged with a capital felony""",71307
+71399,"""defendants charged with an offense of unknown severity""",71399
+71400,"""defendants charged with an infraction""",71400
+71401,"""defendants charged with a misdemeanor""",71401
+71402,"""defendants charged with a gross misdemeanor""",71402
+71403,"""defendants charged with a class C felony""",71403
+71404,"""defendants charged with a class B felony""",71404
+71405,"""defendants charged with a class A felony""",71405
+71499,"""defendants charged with an offense of unknown severity""",71499
+71500,"""defendants charged with an ordinance/forfeiture""",71500
+71501,"""defendants charged with an unclassified misdemeanor""",71501
+71502,"""defendants charged with a class C misdemeanor""",71502
+71503,"""defendants charged with a class B misdemeanor""",71503
+71504,"""defendants charged with a class A misdemeanor""",71504
+71505,"""defendants charged with an unclassified felony""",71505
+71506,"""defendants charged with a class I felony""",71506
+71507,"""defendants charged with a class H felony""",71507
+71508,"""defendants charged with a class G felony""",71508
+71509,"""defendants charged with a class F felony""",71509
+71510,"""defendants charged with a class E felony""",71510
+71511,"""defendants charged with a class D felony""",71511
+71512,"""defendants charged with a class C felony""",71512
+71513,"""defendants charged with a class B felony""",71513
+71514,"""defendants charged with a class A felony""",71514
+71599,"""defendants charged with an offense of unknown severity""",71599
+71600,"""defendants charged with an unclassified misdemeanor""",71600
+71601,"""defendants charged with a class C misdemeanor""",71601
+71602,"""defendants charged with a class B misdemeanor""",71602
+71603,"""defendants charged with a class A misdemeanor""",71603
+71604,"""defendants charged with an unclassified felony""",71604
+71605,"""defendants charged with a class D felony""",71605
+71606,"""defendants charged with a class C felony""",71606
+71607,"""defendants charged with a class B felony""",71607
+71608,"""defendants charged with a class A felony""",71608
+71609,"""defendants charged with a class Y felony""",71609
+71699,"""defendants charged with an offense of unknown severity""",71699
+71700,"""defendants charged with an offense of infraction""",71700
+71701,"""defendants charged with an offense of unclassified petty offense""",71701
+71702,"""defendants charged with an offense of unclassified misdemeanor""",71702
+71703,"""defendants charged with an offense of class C misdemeanor""",71703
+71704,"""defendants charged with an offense of class B misdemeanor""",71704
+71705,"""defendants charged with an offense of class A misdemeanor""",71705
+71706,"""defendants charged with an offense of unclassified felony""",71706
+71707,"""defendants charged with an offense of class 4 felony""",71707
+71708,"""defendants charged with an offense of class 3 felony""",71708
+71709,"""defendants charged with an offense of class 2 felony""",71709
+71710,"""defendants charged with an offense of class 1 felony""",71710
+71711,"""defendants charged with an offense of class X felony""",71711
+71712,"""defendants charged with an offense of class M felony""",71712
+71799,"""defendants charged with an offense of unknown severity""",71799
+71800,"""defendants with no drug charges""",71800
+71801,"""defendants with drug paraphernalia related charges""",71801
+71802,"""defendants with other/unspecified drug offense charges""",71802
+71803,"""defendants with possession/use of unspecified drug charges""",71803
+71804,"""defendants with marijuana possession/use charges""",71804
+71805,"""defendants with other drug possession/use charges""",71805
+71806,"""defendants with other prescription drug possession/use charges""",71806
+71807,"""defendants with opioid drug possession/use charges""",71807
+71808,"""defendants with cocaine possession/use charges""",71808
+71809,"""defendants with amphetamine possession/use charges""",71809
+71810,"""defendants with heroin possession/use charges""",71810
+71811,"""defendants with distribution of unspecified drug charges""",71811
+71812,"""defendants with marijuana distribution charges""",71812
+71813,"""defendants with other drug distribution charges""",71813
+71814,"""defendants with other prescription drug distribution charges""",71814
+71815,"""defendants with opioid drug distribution charges""",71815
+71816,"""defendants with cocaine distribution charges""",71816
+71817,"""defendants with amphetamine distribution charges""",71817
+71818,"""defendants with heroin distribution charges""",71818
+71899,"""defendants with unknown charges""",71899
+81000,"""defendants charged with an ordinance / infraction""",81000
+81001,"""defendants charged with an unclassified misdemeanor""",81001
+81002,"""defendants charged with a class 2 misdemeanor""",81002
+81003,"""defendants charged with a class 1 misdemeanor""",81003
+81004,"""defendants charged with an unclassified felony""",81004
+81005,"""defendants charged with a class 3 felony""",81005
+81006,"""defendants charged with a class 2 felony""",81006
+81007,"""defendants charged with a class 1 felony""",81007
+81008,"""defendants charged with a life felony""",81008
+81009,"""defendants charged with a capital felony""",81009
+81099,"""defendants charged with an offense of unknown severity""",81099
+81100,"""defendants charged with an  infraction""",81100
+81101,"""defendants charged with an unclassified misdemeanor""",81101
+81102,"""defendants charged with a class 3 misdemeanor""",81102
+81103,"""defendants charged with a traffic misdemeanor""",81103
+81104,"""defendants charged with a class 2 misdemeanor""",81104
+81105,"""defendants charged with a class 1 misdemeanor""",81105
+81106,"""defendants charged with a class A1 misdemeanor""",81106
+81107,"""defendants charged with an unclassified felony""",81107
+81108,"""defendants charged with a class I felony""",81108
+81109,"""defendants charged with a class H elony""",81109
+81110,"""defendants charged with a class G felony""",81110
+81111,"""defendants charged with a class F felony""",81111
+81112,"""defendants charged with a class E felony""",81112
+81113,"""defendants charged with a class D felony""",81113
+81114,"""defendants charged with a class C felony""",81114
+81115,"""defendants charged with a class B2 felony""",81115
+81116,"""defendants charged with a class B1 felony""",81116
+81117,"""defendants charged with a class A felony""",81117
+81199,"""defendants charged with an offense of unknown severity""",81199
+81200,"""defendants charged with an ordinance / infraction""",81200
+81201,"""defendants charged with an unclassified misdemeanor""",81201
+81202,"""defendants charged with a summary offense""",81202
+81203,"""defendants charged with a class 3 misdemeanor""",81203
+81204,"""defendants charged with a class 2 misdemeanor""",81204
+81205,"""defendants charged with a class 1 misdemeanor""",81205
+81206,"""defendants charged with an unclassified felony""",81206
+81207,"""defendants charged with a class 3 felony""",81207
+81208,"""defendants charged with a class 2 felony""",81208
+81209,"""defendants charged with a class 1 felony""",81209
+81210,"""defendants charged with homicide""",81210
+81299,"""defendants charged with an offense of unknown severity""",81299
+81300,"""defendants charged with an infraction""",81300
+81301,"""defendants charged with a class C misdemeanor""",81301
+81302,"""defendants charged with a class B misdemeanor""",81302
+81303,"""defendants charged with a class A misdemeanor""",81303
+81304,"""defendants charged with a class 3 felony""",81304
+81305,"""defendants charged with a class 2 felony""",81305
+81306,"""defendants charged with a class 1 felony""",81306
+81307,"""defendants charged with a capital felony""",81307
+81399,"""defendants charged with an offense of unknown severity""",81399
+81400,"""defendants charged with an infraction""",81400
+81401,"""defendants charged with a misdemeanor""",81401
+81402,"""defendants charged with a gross misdemeanor""",81402
+81403,"""defendants charged with a class C felony""",81403
+81404,"""defendants charged with a class B felony""",81404
+81405,"""defendants charged with a class A felony""",81405
+81499,"""defendants charged with an offense of unknown severity""",81499
+81500,"""defendants charged with an ordinance/forfeiture""",81500
+81501,"""defendants charged with an unclassified misdemeanor""",81501
+81502,"""defendants charged with a class C misdemeanor""",81502
+81503,"""defendants charged with a class B misdemeanor""",81503
+81504,"""defendants charged with a class A misdemeanor""",81504
+81505,"""defendants charged with an unclassified felony""",81505
+81506,"""defendants charged with a class I felony""",81506
+81507,"""defendants charged with a class H felony""",81507
+81508,"""defendants charged with a class G felony""",81508
+81509,"""defendants charged with a class F felony""",81509
+81510,"""defendants charged with a class E felony""",81510
+81511,"""defendants charged with a class D felony""",81511
+81512,"""defendants charged with a class C felony""",81512
+81513,"""defendants charged with a class B felony""",81513
+81514,"""defendants charged with a class A felony""",81514
+81599,"""defendants charged with an offense of unknown severity""",81599
+81600,"""defendants charged with an unclassified misdemeanor""",81600
+81601,"""defendants charged with a class C misdemeanor""",81601
+81602,"""defendants charged with a class B misdemeanor""",81602
+81603,"""defendants charged with a class A misdemeanor""",81603
+81604,"""defendants charged with an unclassified felony""",81604
+81605,"""defendants charged with a class D felony""",81605
+81606,"""defendants charged with a class C felony""",81606
+81607,"""defendants charged with a class B felony""",81607
+81608,"""defendants charged with a class A felony""",81608
+81609,"""defendants charged with a class Y felony""",81609
+81699,"""defendants charged with an offense of unknown severity""",81699
+81700,"""defendants charged with an offense of infraction""",81700
+81701,"""defendants charged with an offense of unclassified petty offense""",81701
+81702,"""defendants charged with an offense of unclassified misdemeanor""",81702
+81703,"""defendants charged with an offense of class C misdemeanor""",81703
+81704,"""defendants charged with an offense of class B misdemeanor""",81704
+81705,"""defendants charged with an offense of class A misdemeanor""",81705
+81706,"""defendants charged with an offense of unclassified felony""",81706
+81707,"""defendants charged with an offense of class 4 felony""",81707
+81708,"""defendants charged with an offense of class 3 felony""",81708
+81709,"""defendants charged with an offense of class 2 felony""",81709
+81710,"""defendants charged with an offense of class 1 felony""",81710
+81711,"""defendants charged with an offense of class X felony""",81711
+81712,"""defendants charged with an offense of class M felony""",81712
+81799,"""defendants charged with an offense of unknown severity""",81799
+81800,"""defendants with no drug charges""",81800
+81801,"""defendants with drug paraphernalia related charges""",81801
+81802,"""defendants with other/unspecified drug offense charges""",81802
+81803,"""defendants with possession/use of unspecified drug charges""",81803
+81804,"""defendants with marijuana possession/use charges""",81804
+81805,"""defendants with other drug possession/use charges""",81805
+81806,"""defendants with other prescription drug possession/use charges""",81806
+81807,"""defendants with opioid drug possession/use charges""",81807
+81808,"""defendants with cocaine possession/use charges""",81808
+81809,"""defendants with amphetamine possession/use charges""",81809
+81810,"""defendants with heroin possession/use charges""",81810
+81811,"""defendants with distribution of unspecified drug charges""",81811
+81812,"""defendants with marijuana distribution charges""",81812
+81813,"""defendants with other drug distribution charges""",81813
+81814,"""defendants with other prescription drug distribution charges""",81814
+81815,"""defendants with opioid drug distribution charges""",81815
+81816,"""defendants with cocaine distribution charges""",81816
+81817,"""defendants with amphetamine distribution charges""",81817
+81818,"""defendants with heroin distribution charges""",81818
+81899,"""defendants with unknown charges""",81899
+91000,"""defendants charged with an ordinance / infraction""",91000
+91001,"""defendants charged with an unclassified misdemeanor""",91001
+91002,"""defendants charged with a class 2 misdemeanor""",91002
+91003,"""defendants charged with a class 1 misdemeanor""",91003
+91004,"""defendants charged with an unclassified felony""",91004
+91005,"""defendants charged with a class 3 felony""",91005
+91006,"""defendants charged with a class 2 felony""",91006
+91007,"""defendants charged with a class 1 felony""",91007
+91008,"""defendants charged with a life felony""",91008
+91009,"""defendants charged with a capital felony""",91009
+91099,"""defendants charged with an offense of unknown severity""",91099
+91100,"""defendants charged with an  infraction""",91100
+91101,"""defendants charged with an unclassified misdemeanor""",91101
+91102,"""defendants charged with a class 3 misdemeanor""",91102
+91103,"""defendants charged with a traffic misdemeanor""",91103
+91104,"""defendants charged with a class 2 misdemeanor""",91104
+91105,"""defendants charged with a class 1 misdemeanor""",91105
+91106,"""defendants charged with a class A1 misdemeanor""",91106
+91107,"""defendants charged with an unclassified felony""",91107
+91108,"""defendants charged with a class I felony""",91108
+91109,"""defendants charged with a class H elony""",91109
+91110,"""defendants charged with a class G felony""",91110
+91111,"""defendants charged with a class F felony""",91111
+91112,"""defendants charged with a class E felony""",91112
+91113,"""defendants charged with a class D felony""",91113
+91114,"""defendants charged with a class C felony""",91114
+91115,"""defendants charged with a class B2 felony""",91115
+91116,"""defendants charged with a class B1 felony""",91116
+91117,"""defendants charged with a class A felony""",91117
+91199,"""defendants charged with an offense of unknown severity""",91199
+91200,"""defendants charged with an ordinance / infraction""",91200
+91201,"""defendants charged with an unclassified misdemeanor""",91201
+91202,"""defendants charged with a summary offense""",91202
+91203,"""defendants charged with a class 3 misdemeanor""",91203
+91204,"""defendants charged with a class 2 misdemeanor""",91204
+91205,"""defendants charged with a class 1 misdemeanor""",91205
+91206,"""defendants charged with an unclassified felony""",91206
+91207,"""defendants charged with a class 3 felony""",91207
+91208,"""defendants charged with a class 2 felony""",91208
+91209,"""defendants charged with a class 1 felony""",91209
+91210,"""defendants charged with homicide""",91210
+91299,"""defendants charged with an offense of unknown severity""",91299
+91300,"""defendants charged with an infraction""",91300
+91301,"""defendants charged with a class C misdemeanor""",91301
+91302,"""defendants charged with a class B misdemeanor""",91302
+91303,"""defendants charged with a class A misdemeanor""",91303
+91304,"""defendants charged with a class 3 felony""",91304
+91305,"""defendants charged with a class 2 felony""",91305
+91306,"""defendants charged with a class 1 felony""",91306
+91307,"""defendants charged with a capital felony""",91307
+91399,"""defendants charged with an offense of unknown severity""",91399
+91400,"""defendants charged with an infraction""",91400
+91401,"""defendants charged with a misdemeanor""",91401
+91402,"""defendants charged with a gross misdemeanor""",91402
+91403,"""defendants charged with a class C felony""",91403
+91404,"""defendants charged with a class B felony""",91404
+91405,"""defendants charged with a class A felony""",91405
+91499,"""defendants charged with an offense of unknown severity""",91499
+91500,"""defendants charged with an ordinance/forfeiture""",91500
+91501,"""defendants charged with an unclassified misdemeanor""",91501
+91502,"""defendants charged with a class C misdemeanor""",91502
+91503,"""defendants charged with a class B misdemeanor""",91503
+91504,"""defendants charged with a class A misdemeanor""",91504
+91505,"""defendants charged with an unclassified felony""",91505
+91506,"""defendants charged with a class I felony""",91506
+91507,"""defendants charged with a class H felony""",91507
+91508,"""defendants charged with a class G felony""",91508
+91509,"""defendants charged with a class F felony""",91509
+91510,"""defendants charged with a class E felony""",91510
+91511,"""defendants charged with a class D felony""",91511
+91512,"""defendants charged with a class C felony""",91512
+91513,"""defendants charged with a class B felony""",91513
+91514,"""defendants charged with a class A felony""",91514
+91599,"""defendants charged with an offense of unknown severity""",91599
+91600,"""defendants charged with an unclassified misdemeanor""",91600
+91601,"""defendants charged with a class C misdemeanor""",91601
+91602,"""defendants charged with a class B misdemeanor""",91602
+91603,"""defendants charged with a class A misdemeanor""",91603
+91604,"""defendants charged with an unclassified felony""",91604
+91605,"""defendants charged with a class D felony""",91605
+91606,"""defendants charged with a class C felony""",91606
+91607,"""defendants charged with a class B felony""",91607
+91608,"""defendants charged with a class A felony""",91608
+91609,"""defendants charged with a class Y felony""",91609
+91699,"""defendants charged with an offense of unknown severity""",91699
+91700,"""defendants charged with an offense of infraction""",91700
+91701,"""defendants charged with an offense of unclassified petty offense""",91701
+91702,"""defendants charged with an offense of unclassified misdemeanor""",91702
+91703,"""defendants charged with an offense of class C misdemeanor""",91703
+91704,"""defendants charged with an offense of class B misdemeanor""",91704
+91705,"""defendants charged with an offense of class A misdemeanor""",91705
+91706,"""defendants charged with an offense of unclassified felony""",91706
+91707,"""defendants charged with an offense of class 4 felony""",91707
+91708,"""defendants charged with an offense of class 3 felony""",91708
+91709,"""defendants charged with an offense of class 2 felony""",91709
+91710,"""defendants charged with an offense of class 1 felony""",91710
+91711,"""defendants charged with an offense of class X felony""",91711
+91712,"""defendants charged with an offense of class M felony""",91712
+91799,"""defendants charged with an offense of unknown severity""",91799
+91808,"""defendants with cocaine possession/use charges""",91808
+91809,"""defendants with amphetamine possession/use charges""",91809
+91810,"""defendants with heroin possession/use charges""",91810
+91811,"""defendants with distribution of unspecified drug charges""",91811
+91812,"""defendants with marijuana distribution charges""",91812
+91813,"""defendants with other drug distribution charges""",91813
+91814,"""defendants with other prescription drug distribution charges""",91814
+91815,"""defendants with opioid drug distribution charges""",91815
+91816,"""defendants with cocaine distribution charges""",91816
+91817,"""defendants with amphetamine distribution charges""",91817
+91818,"""defendants with heroin distribution charges""",91818
+91899,"""defendants with unknown charges""",91899
+92000,"""defendants charged in the lower court""",92000
+92001,"""defendants charged in the higher court""",92001
+93000,"""defendants with non-domestic abuse charges""",93000
+93001,"""defendants with domestic abuse charges""",93001
+91900,"""defendants charged with an offense of infraction""",91900
+91901,"""defendants charged with an offense of unclassified misdemeanor""",91901
+91902,"""defendants charged with an offense of class C misdemeanor""",91902
+91903,"""defendants charged with an offense of class B misdemeanor""",91903
+91904,"""defendants charged with an offense of class A misdemeanor""",91904
+91905,"""defendants charged with an offense of unclassified felony""",91905
+91906,"""defendants charged with an offense of class E felony""",91906
+91907,"""defendants charged with an offense of class D felony""",91907
+91908,"""defendants charged with an offense of class C felony""",91908
+91909,"""defendants charged with an offense of class B felony""",91909
+91910,"""defendants charged with an offense of class A felony""",91910
+91911,"""defendants charged with an offense of unknown severity""",91911
+94001,"""defendants with possession/use of unspecified drug charges""",94001
+94002,"""defendants with marijuana possession/use charges""",94002
+94003,"""defendants with other drug possession/use charges""",94003
+94004,"""defendants with other prescription drug possession/use charges""",94004
+94005,"""defendants with opioid drug possession/use charges""",94005
+94006,"""defendants with cocaine possession/use charges""",94006
+94007,"""defendants with amphetamine possession/use charges""",94007
+94008,"""defendants with heroin possession/use charges""",94008
